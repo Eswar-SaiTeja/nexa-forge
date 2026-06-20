@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nexa Forge Intelligence Systems",
+  "description": "Enterprise high-performance Quantum-Secured Systems, Distributed Cognitive Nodes, Zero-Trust Gateways, and AI-Driven Data Analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
